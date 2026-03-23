@@ -1,0 +1,6 @@
+[mcp_servers.sosreport]
+command = ".venv/bin/python"
+args = ["mcp_sosreport/server.py"]
+cwd = "."
+enabled = true
+enabled_tools = ["sos_extract"]
