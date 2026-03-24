@@ -1,5 +1,8 @@
 # MCP Sosreport Tools
 
+![MCP](https://img.shields.io/badge/MCP-Tools-2f6f8f)
+![Python](https://img.shields.io/badge/Python-3.11%2B-3776ab)
+
 Minimal MCP server for working with Fedora `sosreport` archives.
 
 ## What’s here
